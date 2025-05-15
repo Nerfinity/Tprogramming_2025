@@ -3,5 +3,4 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(Кочеткова Яна Андреевна)
-}
+	fmt.Println(Кочеткова Яна Андреевна)}
